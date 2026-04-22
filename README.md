@@ -39,6 +39,7 @@ https://codebasics.io/challenge/codebasics-resume-project-challenge
 
 ## Data Modeling 
 Connected Fact tables with Diemnetions table based on common Column refer below image 
+https://github.com/kalyanipatange/Goodcabs-Performance-Overview/blob/main/Data_Modeling.png
 
  ## KPI Measures (DAX)
 1.Total Trips
@@ -143,5 +144,7 @@ Market Trend Analysis-
 
 Track market trends and event-based demand to anticipate surges and avoid shortages during peak times.
 Use this data to optimize resource allocation, ensuring a balanced supply-demand ratio.
+## PPT 
+
  
 
