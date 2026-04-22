@@ -146,5 +146,6 @@ Track market trends and event-based demand to anticipate surges and avoid shorta
 Use this data to optimize resource allocation, ensuring a balanced supply-demand ratio.
 ## PPT 
 
+https://github.com/kalyanipatange/Goodcabs-Performance-Overview/blob/main/Transportation%20and%20Mobility.pptx
  
 
